@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Project_Movies</string>
+
+    <!-- drawer menu items -->
+    <string name="nav_item_home">Home</string>
+    <string name="nav_item_bookmarked">Bookmarked</string>
+
+    <!-- recyclerview items -->
+    <string name="item_title">Title: </string>
+    <string name="item_release">Release:</string>
+    <string name="item_description">Description:</string>
+    <string name="item_release_date">Release date:</string>
+
+    <!-- Edit -->
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+
+    <!-- Edit / Add -->
+    <string name="add">Date</string>
+    <string name="label_select_a_date">Select a release date:</string>
+
+    <!-- Add -->
+    <string name="enter_movie_description">Enter movie description</string>
+    <string name="enter_movie_name">Enter movie name</string>
+    <string name="add_movie">Add Movie</string>
+    <string name="selected_date">Selected date</string>
+
+    <!-- Settings -->
+    <string name="title_activity_settings2">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Theme</string>
+    <string name="messages_header_confirm">Confirmations</string>
+
+    <!-- Preference summary -->
+    <string name="messages_header_confirm_true">confirmation on</string>
+    <string name="messages_header_confirm_false">confirmation off</string>
+    <string name="theme_summary_on">Dark mode on</string>
+    <string name="theme_summary_off">Light mode on</string>
+    <string name="theme_title">Dark theme</string>
+    <string name="confirm_delete">Confirm delete</string>
+    <string name="confirm_edit">Confirm edit</string>
+
+</resources>

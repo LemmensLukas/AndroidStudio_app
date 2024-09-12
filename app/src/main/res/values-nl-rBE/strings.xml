@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Project_Movies</string>
+
+    <!-- drawer menu items -->
+    <string name="nav_item_home">Thuis</string>
+    <string name="nav_item_bookmarked">Bladwijzer</string>
+
+    <!-- recyclerview items -->
+    <string name="item_title">Titel: </string>
+    <string name="item_release">Uitgave:</string>
+    <string name="item_description">Beschrijving:</string>
+    <string name="item_release_date">Uitgave datum:</string>
+
+    <!-- Edit -->
+    <string name="save">Opslaan</string>
+    <string name="delete">Verwijder</string>
+
+    <!-- Edit / Add -->
+    <string name="add">Datum</string>
+    <string name="label_select_a_date">Selecteer uitgave datum:</string>
+
+    <!-- Add -->
+    <string name="enter_movie_description">Voer een filmbeschrijving in</string>
+    <string name="enter_movie_name">Voer een filmnaam in</string>
+    <string name="add_movie">Film toevoegen</string>
+    <string name="selected_date">Geselecteerde datum</string>
+
+    <!-- Settings -->
+    <string name="title_activity_settings2">Instellingen</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Thema</string>
+    <string name="messages_header_confirm">Bevestigingen</string>
+
+    <!-- Preference summary -->
+    <string name="messages_header_confirm_true">Bevestiging aan</string>
+    <string name="messages_header_confirm_false">Bevestiging uit</string>
+    <string name="theme_summary_on">Donkere modus aan</string>
+    <string name="theme_summary_off">Lichte modus uit</string>
+    <string name="theme_title">Donker thema</string>
+    <string name="confirm_delete">Bevestig verwijderen</string>
+    <string name="confirm_edit">Bevestig aanpassen</string>
+
+</resources>

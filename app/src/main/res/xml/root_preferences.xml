@@ -1,0 +1,31 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory app:title="@string/messages_header">
+
+        <SwitchPreference
+            app:key="theme_key_setting"
+            app:title="@string/theme_title"
+            app:summaryOn="@string/theme_summary_on"
+            app:summaryOff="@string/theme_summary_off"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="@string/messages_header_confirm">
+
+        <SwitchPreference
+            app:key="confirm_edit_key_setting"
+            app:title="@string/confirm_edit"
+            app:summaryOn="@string/messages_header_confirm_true"
+            app:summaryOff="@string/messages_header_confirm_false"
+            app:defaultValue="true"/>
+
+        <SwitchPreference
+            app:key="confirm_delete_key_setting"
+            app:title="@string/confirm_delete"
+            app:summaryOn="@string/messages_header_confirm_true"
+            app:summaryOff="@string/messages_header_confirm_false"
+            app:defaultValue="true"/>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
